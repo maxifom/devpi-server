@@ -3,7 +3,7 @@ appdirs==1.4.3
 argon2-cffi==19.2.0
 attrs==19.3.0
 beautifulsoup4==4.8.2
-bleach==3.1.2
+bleach==3.1.4
 certifi==2019.11.28
 cffi==1.13.2
 Chameleon==3.6.2
